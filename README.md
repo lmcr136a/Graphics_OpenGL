@@ -49,11 +49,11 @@ Each object in the scene has specific material properties as listed below:
 - **LIGHT2**: x: 10, y: 0, z: 0
 - **LIGHT3**: x: 0, y: 0, z: -60
 
-###### To run the rendering program, follow these steps:
+###### Operation of the Visualization Window:
 
 ![1709616844685](image/README/1709616844685.png)
 
-- Run 'python main.py' in the terminal.
+- To execute the visualization window, run `python bird_scene/main.py` in the terminal.
 - You can change the viewpoint direction by clicking and dragging.
 - Use the 'a' key to translate the viewpoint to the left, and the 'd' key to the right.
 - Press 'q' to translate the viewpoint upwards, and 'e' to translate it downwards.
