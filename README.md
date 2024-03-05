@@ -4,7 +4,7 @@ OpenGL computer graphic project in 2020
 
 ## Spline Visualization of Bird Model
 
-![1709616726791](image/README/1709616726791.png)
+![1709617253597](image/README/1709617253597.png)
 
 This project parses the data file to utilize the coordinates of control points to implement B-Spline and Catmull-Rom spline.
 
@@ -48,10 +48,6 @@ Each object in the scene has specific material properties as listed below:
 - **LIGHT1**: x: -10, y: 0, z: 0
 - **LIGHT2**: x: 10, y: 0, z: 0
 - **LIGHT3**: x: 0, y: 0, z: -60
-
-  The types and characters of light sources are like below:
-
-  ![1709616769475](image/README/1709616769475.png)
 
 ###### To run the rendering program, follow these steps:
 
