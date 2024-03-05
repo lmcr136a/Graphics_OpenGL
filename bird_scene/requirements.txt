@@ -1,0 +1,11 @@
+altgraph==0.17.2
+certifi==2021.5.30
+future==0.18.2
+glfw==2.2.0
+numpy
+pefile==2021.9.3
+Pillow==8.3.2
+pygame==2.0.1
+pyinstaller==4.5.1
+pyinstaller-hooks-contrib==2021.3
+wincertstore==0.2
